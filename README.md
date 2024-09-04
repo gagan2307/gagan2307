@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursuing Bachelor of Technology in Information Technology from GGSIPU<br>I'm currently learning Machine Learning and Artificial Intelligence<br>I'm Interested in Data Science<br> 
+🎓I'm currently pursuing Bachelor of Technology in Information Technology from GGSIPU<br>🌱I'm currently learning Machine Learning and Artificial Intelligence<br>⚡I'm Interested in Data Science<br> 
 
 
 ## 🌐 Socials:
